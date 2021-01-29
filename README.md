@@ -1,3 +1,5 @@
+현 시점에서 PySide6 기준으로 업그레이드하고 한글판으로 개발해 보겠습니다.
+
 # NUKE BRICKER
 
 Nuke Gizmo for supervising shots.
